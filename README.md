@@ -4,12 +4,12 @@ Construction with AI - Predict construction revenue by fuel consumption
 
 ## Summary
 
-For construction contractors it is important to know their revenue early. In roadworks or special foundations, the work is done with big equipment with a lot of diesel consumption. Analysing the engine’s telematic data might provide a reliable prediction of revenues.
+For construction contractors it is important to know their expected revenue early. In roadworks or special foundations, the work is done with big equipment with a lot of diesel consumption. Analysing the engine’s telematic data might provide a reliable prediction of revenues.
 
 ## Background
 
 The construction industry is notoriously slow in embracing new technology. However, the possibilities of using AI methods in the sector are vast. Predicting revenue is very important for the financial stability of small and big contractors alike to plan for example the cash-flow of the organisation or the logistics of resources.
-In sectors where the performance depends primarily on major, diesel driven equipment, the correlation between revenue and diesel consumption should be strong. 
+In sectors where the performance depends primarily on major diesel driven equipment, the correlation between revenue and diesel consumption should be strong. 
 
 <img src="/2020 Bauer cutter.jpg" width="300">
 
@@ -23,9 +23,11 @@ Each major modern equipment has basic data like fuel consumption available via t
 
 The revenue achieved with the equipment is required for training of the model. 
 
+The use of particular AI methods will be decided after analysing the available data. 
+
 ## Challenges
 
-Access to the data even of owned equipment is sometimes limited by manufacturers. The exchange of revenue data between contractors operating in the same market might not be possible.  
+Access to the data of the equipment is sometimes limited by manufacturers. The exchange of revenue data between contractors operating in the same market might not be possible.  
 
 ## What next?
 
