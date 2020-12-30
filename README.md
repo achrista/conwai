@@ -10,7 +10,7 @@ For construction contractors it is important to know their revenue early. In roa
 The construction industry is notoriously slow in embracing new technology. However, the possibilities of using AI methods in the sector are vast. Predicting revenue is very important for the financial stability of small and big contractors alike to plan for example the cash-flow of the organisation or the logistics of resources.
 In sectors where the performance depends primarily on major, diesel driven equipment, the correlation between revenue and diesel consumption should be strong. 
 
-<br>For example: [BAUER equipment 2020 (/2020 Bauer cutter.jpg)
+![BAUER equipment 2020 (/2020 Bauer cutter.jpg)
 
 
 ## How is it used?
