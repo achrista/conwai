@@ -1,5 +1,4 @@
-
- # conwai
+# conwai
 
 Construction with AI - Predict construction revenue by fuel consumption
 
