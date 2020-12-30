@@ -4,7 +4,7 @@ Construction with AI - Predict construction revenue by fuel consumption
 
 ## Summary
 
-For construction contractors it is important to know their expected revenue early. In roadworks or special foundations, the work is done with big equipment with a lot of diesel consumption. Analysing the engine’s telematic data might provide a reliable prediction of revenues.
+Construction contractors need to know their expected revenue early. Especially where the work is done with big equipment, analysing the engine’s telematic data might provide a reliable prediction of revenues.
 
 ## Background
 
